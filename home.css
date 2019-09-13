@@ -1,0 +1,20 @@
+/* Everything in here is a COMMENT CODE */
+
+body
+{
+    background-color: aqua;
+    background-image: url("img/1 TableImage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h4
+{
+    color: cadetblue;
+}
+/* Style a specific section of the page that has an ID= using the hastag # */
+#textEnhance
+{
+   color: darkslateblue;
+    background-image: linear-gradient(red,blue);
+}
